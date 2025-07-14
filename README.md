@@ -102,3 +102,18 @@
 ![.ENV](https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+## 🛡️ Cybersecurity Toolkit
+
+A growing collection of tools I've used or explored as part of my journey into ethical hacking and penetration testing.
+
+![Nessus](https://img.shields.io/badge/Nessus-00758F?style=for-the-badge&logo=tenable&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004575?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff7043?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=white)
+
+And many more... 🤖
