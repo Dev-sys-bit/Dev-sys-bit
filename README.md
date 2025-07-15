@@ -3,7 +3,7 @@
 💻 **Software Engineer**  
 🕸️ **Web & Application Developer**  
 🔐⛓ **Cybersecurity Enthusiast**  
-🎨 **UX Researcher & Developer**
+🧠🎨 **UX Researcher & Developer**
 
 ## 🛠 Tech Stack
 
